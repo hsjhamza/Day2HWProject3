@@ -12,7 +12,13 @@ public class Demo3 {
 
 	
 	public static void getName() {
-		
+
+		System.out.println("Nooteck");
+
+	}
+
+	public static void getInfo() {
+
 		System.out.println("Nooteck");
 		
 		
